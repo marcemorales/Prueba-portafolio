@@ -1,0 +1,39 @@
+body {
+    font-family: "Raleway", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#Hero-Section {
+    background-image: url("../img/fotografia-portada.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    margin-top: 0;
+    padding-top: 70px;
+}
+
+#Mis-trabajos .image-top,
+#Formacion .image-top,
+#Cursos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#Contacto form label {
+    font-weight: 700;
+    color: #373a3c;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+    }
+
+  .navbar-brand{
+    width: 100px;
+    }
+}
+
