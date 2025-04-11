@@ -11,13 +11,10 @@ Realizado a Sebastián León repositorio original: https://github.com/AstronaveC
 Repositorio forkeado: https://github.com/marcemorales/CurriculumVitae
 
 - Se creó la carpeta assets y dentro de ella se creó carpeta css y img
-<img src="./assets/img/primer commit.png"> alt=Primer commit
+<img src="assets/img/primer commit.png">
 
-<img width="833" alt="Captura de pantalla 2025-04-10 a la(s) 5 00 52 p m" src="https://github.com/user-attachments/assets/065a9634-2c1d-4c8a-9174-58921e6b064d" />
 - Se cambiaron las rutas de las imágenes y del css en el index, ya que estas no coincidian al haberse creado carpetas para estas
-
-
-
+<img src="assets/img/segundo commit .png">
 
 
 ### Segundo Fork y commit:
