@@ -21,8 +21,19 @@ Repositorio forkeado: https://github.com/marcemorales/CurriculumVitae
 
 
 ### Segundo Fork y commit:
-Realizado a xxx repositorio original:
+Realizado a Alfredo Muñoz repositorio original: https://github.com/alfredoma12/prueba1latam
 
-Repositorio forkeado:
+Repositorio forkeado: https://github.com/marcemorales/prueba1latam
 
-- 
+- Se  creó la carpeta assets y dentro de ella se creó la carpeta css e img
+<img src="assets/img/primer-commit-fork2.png">
+
+- Se cambiaron las rutas de las imágenes y del css en el index
+<img src="assets/img/segundo-commit-fork2.png">
+<img src="assets/img/cont-segundo-commit-fork2.png">
+
+- Se cambió de ubicación textos del navbar, hacia lado derecho
+<img src="assets/img/tercer-commit-fork2.png">
+
+-----
+Marcela Morales
